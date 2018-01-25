@@ -1,0 +1,25 @@
+{
+  "name": "@rhoggSugarcrm/get-sugar-oauth-token",
+  "version": "0.1.0",
+  "description": "Get an OAuth token from a SugarCRM instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhoggSugarcrm/get-sugar-oauth-token.git"
+  },
+  "keywords": [
+    "SugarCRM"
+  ],
+  "author": "Bob W. Hogg <rhogg@sugarcrm.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rhoggSugarcrm/get-sugar-oauth-token/issues"
+  },
+  "homepage": "https://github.com/rhoggSugarcrm/get-sugar-oauth-token#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
